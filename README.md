@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `15m` sample updated in sync
 
-> **Sample on GitHub** · `US2000_15m.csv` (3,697 rows, `2026-07-07` -> `2026-09-02`, 340.69 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us2000)** — **184,962** `15m` rows (full `1m`: 2,762,553), **11 timeframes**, `2018-10-26` -> `2026-09-02`.
+> **Sample on GitHub** · `US2000_15m.csv` (3,696 rows, `2026-07-07` -> `2026-09-02`, 340.62 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us2000)** — **184,962** `15m` rows (full `1m`: 2,717,412), **11 timeframes**, `2018-10-26` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Russell 2000 · Index | Russell 2000 · Index |
 | Timeframes | `15m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 15m rows | 3,697 | **184,962** |
-| Size | 340.69 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us2000) |
+| 15m rows | 3,696 | **184,962** |
+| Size | 340.62 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us2000) |
 | Period | `2026-07-07` -> `2026-09-02` | `2018-10-26` -> `2026-09-02` |
 | File | `US2000_15m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/us2000) |
 | Coverage report | — | [US2000 coverage](https://getdata.finance/coverage/us2000) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`US2000_15m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 2985.32 | 2986.09 | 2978.69 | 2979.69 | 10110 |
 | 2026-07-07T19:15:00+00:00 | 2979.69 | 2981.69 | 2975.73 | 2979.43 | 9679 |
 | 2026-07-07T19:30:00+00:00 | 2979.43 | 2982.18 | 2977.64 | 2980.32 | 9299 |
 | 2026-07-07T19:45:00+00:00 | 2980.32 | 2987.43 | 2979.93 | 2983.03 | 9347 |
 | 2026-07-07T20:00:00+00:00 | 2983.03 | 2983.19 | 2980.79 | 2982.12 | 2329 |
+| 2026-07-07T20:15:00+00:00 | 2982.12 | 2982.98 | 2979.79 | 2980.49 | 931 |
 
 **Last rows**
 
